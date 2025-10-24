@@ -1,0 +1,25 @@
+*.m4a
+*.mp3
+*.wav
+*.flac
+*.ogg
+
+*.txt
+
+# Python build artifacts
+__pycache__/
+*.py[cod]
+*.pyd
+*.so
+*.egg-info/
+dist/
+build/
+
+# Virtual environments
+.venv/
+venv/
+.env
+
+# Tooling
+.DS_Store
+.uv/
